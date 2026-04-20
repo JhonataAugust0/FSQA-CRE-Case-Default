@@ -1,0 +1,25 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ 
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+ 
+# Jupyter checkpoints
+.ipynb_checkpoints/
+ 
+# Sistema
+.DS_Store
+Thumbs.db
+ 
+# IDEs
+.vscode/
+.idea/
+*.swp
+ 
+# Streamlit cache
+.streamlit/
